@@ -163,3 +163,4 @@ GROQ_API_KEY=your_groq_api_key_here
 ## License
 
 This project is licensed under the MIT License.
+If you want to see the video implementation of Project you can just downlode the PPT and watch the video .
